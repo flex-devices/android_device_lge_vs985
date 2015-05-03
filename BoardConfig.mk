@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2014 The CyanogenMod Project
+# Copyright (C) 2014 The FlexOS Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ BLUETOOTH_HCI_USE_MCT := true
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/lge/vs985/bluetooth
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_vs985_defconfig
+TARGET_KERNEL_CONFIG := flex_vs985_defconfig
 TARGET_REQUIRES_BUMP := true
 
 # Partitions
